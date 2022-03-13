@@ -1,5 +1,10 @@
 span {
   display: inline-block;
+  text-align: center;
+}
+
+#icons {
+  margin: auto;
 }
 /* span {
     display: inline-block;
