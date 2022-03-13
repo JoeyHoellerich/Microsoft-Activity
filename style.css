@@ -1,17 +1,16 @@
-h1 {
-  text-align: center;
-}
-
 span {
   display: inline-block;
-  text-align: center;
 }
 
-#icons {
-  margin: auto;
+#icons span {
+  padding: 20px;
 }
 
 .gunna {
   padding: 10px;
   width: 250px;
+}
+
+body {
+  text-align: center;
 }
